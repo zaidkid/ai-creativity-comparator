@@ -96,9 +96,8 @@ const GEMINI_KEY = process.env.REACT_APP_GEMINI_API_KEY;
 ## Screenshots
 
 <img width="1919" height="1147" alt="Screenshot 2026-04-24 025224" src="https://github.com/user-attachments/assets/12b3e1b5-cb51-4c2b-9b02-3faf3c98ef35" />
-<img width="1901" height="1141" alt="image" src="https://github.com/user-attachments/assets/e6f26abf-6949-4164-b382-8e26e315704b" />
 <img width="1904" height="1141" alt="image" src="https://github.com/user-attachments/assets/06837431-3473-4b25-a0e8-13304659765c" />
-
+<img width="1901" height="1141" alt="image" src="https://github.com/user-attachments/assets/e6f26abf-6949-4164-b382-8e26e315704b" />
 
 
 ---
