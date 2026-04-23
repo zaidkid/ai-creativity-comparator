@@ -4,11 +4,6 @@ A React-based web application that compares human-written content with AI-genera
 
 ---
 
-## Live Demo
-
-(Add your deployed link here, e.g., Vercel)
-
----
 
 ## Features
 
