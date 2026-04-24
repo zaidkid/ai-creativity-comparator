@@ -111,10 +111,11 @@ const GEMINI_KEY = process.env.REACT_APP_GEMINI_API_KEY;
 
 ---
 
-## Author
-
-Zaid Kidwai
-GitHub: https://github.com/zaidkid
+## Team
+* Nipun Arora - E23CSEU2368
+* Zaid Kidwai - E23CSEU2346
+* Saamarthya Raj - E23CSEU2362
+* Taha Saleem - E23CSEU2347
 
 ---
 
